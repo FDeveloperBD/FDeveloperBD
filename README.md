@@ -1,4 +1,4 @@
-<h1 align="center">Frontend Developer.</h1>
+<h2 align="center">I'mFrontend Developer.</h2>
 
 <h3 align="center">🚀 Frontend Developer | JavaScript | React | Tailwind CSS</h3>
 
