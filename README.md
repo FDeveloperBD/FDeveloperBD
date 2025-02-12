@@ -21,15 +21,6 @@
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg' alt='tailwindcss' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 ---
 
 ### 📈 GitHub Stats  
