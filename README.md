@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Frontend Developer | JavaScript | React | Tailwind CSS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00AEEF&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind+CSS+HTML+CSS;Building+awesome+web+experiences!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00AEEF&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind+CSS+%7CHTML+%7CCSS;Building+awesome+web+experiences!" alt="Typing SVG" />
 </p>
 
 ---
