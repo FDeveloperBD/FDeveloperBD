@@ -36,9 +36,8 @@
 ### 🌎 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23181717.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23181717.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://hameemgroup.netlify.app)
 
-<a src="hameemgroup.netlify.app">My Portfolio<\a>
 
 ---
 
