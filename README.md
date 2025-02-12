@@ -1,5 +1,7 @@
 <h2 align="center">I'm Frontend Developer.</h2>
 
+![Web Developer.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdrltzekgshzocy54061p.jpeg)
+
 <h3 align="center">🚀 Frontend Developer | JavaScript | React | Tailwind CSS</h3>
 
 <p align="center">
