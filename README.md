@@ -1,4 +1,7 @@
 <h1 align="center">👋 Hi, I'm Frontend Developer.</h1>
+
+<div align="center">![Profile views](https://komarev.com/ghpvc/?username=noob-hablu&color=red)</div>
+
 <h3 align="center">🚀 Frontend Developer | JavaScript | React | Tailwind CSS</h3>
 
 <p align="center">
