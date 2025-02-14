@@ -11,8 +11,7 @@
 ---
 
 <h2>🔥 About Me</h2>
-<h4>- 🚀 Passionate **Frontend Developer** focused on building **modern, responsive, and user-friendly** web applications.</h3>
-<br>
+<h4>- 🚀 Passionate **Frontend Developer** focused on building **modern, responsive, and user-friendly** web applications.</h4>
 <h4>- 🌱 Currently **learning advanced React features & performance optimization**.</h4>
 <br>
 - 🤝 Open to **collaborating** on exciting web projects.
