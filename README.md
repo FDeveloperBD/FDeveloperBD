@@ -14,7 +14,9 @@
 - 🚀 Passionate **Frontend Developer** focused on building **modern, responsive, and user-friendly** web applications.
 <br>
 - 🌱 Currently **learning advanced React features & performance optimization**.
+<br>
 - 🤝 Open to **collaborating** on exciting web projects.
+<br>
 - 🎯 Love **problem-solving & UI/UX design**.
 
 ---
