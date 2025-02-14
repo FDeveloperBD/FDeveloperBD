@@ -1,8 +1,6 @@
-<h1 align="center">I'm Frontend Web Developer.</h1>
-
 ![Web Developer.](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdrltzekgshzocy54061p.jpeg)
 
-<h3 align="center">🚀 Frontend Developer | JavaScript | React | Tailwind CSS</h3>
+<h2 align="center">🚀 Frontend Web Developer | JavaScript | React | Tailwind CSS</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00AEEF&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind+CSS;Building+awesome+web+experiences!" alt="Typing SVG" />
