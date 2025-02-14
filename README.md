@@ -12,7 +12,7 @@
 <h4>👉 Passionate **Frontend Developer** focused on building **modern, responsive, and user-friendly** web applications.</h4>
 <h4>👉 Currently **learning advanced React features & performance optimization**.</h4>
 <h4>👉 Open to **collaborating** on exciting web projects.</h4>
-<h4>👉 Love **problem-solving & UI/UX design**.<\h4>
+<h4>👉 Love **problem-solving & UI/UX design**.</h4>
 
 ---
 
