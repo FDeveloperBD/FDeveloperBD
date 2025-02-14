@@ -29,3 +29,4 @@
 </p>
 
 ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=D&show_icons=true)
